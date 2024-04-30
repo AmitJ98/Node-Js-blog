@@ -1,0 +1,22 @@
+{
+  "type": "module",
+  "name": "test_project",
+  "version": "1.0.1",
+  "description": "this is a place where i can test and learn java script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Amit",
+  "license": "ISC",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "lodash": "^4.17.21",
+    "mongoose": "^8.3.2"
+  }
+}
